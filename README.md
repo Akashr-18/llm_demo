@@ -1,1 +1,1 @@
-# llm_demo
+# llm_demo for obj detection
